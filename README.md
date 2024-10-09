@@ -1,2 +1,2 @@
 # encrydecry
-simple encrption/decrytion folder in windows
+very simple encrption/decrytion folder under windows specific directory
